@@ -1,15 +1,19 @@
-DESCRIPTION
+# DESCRIPTION
 
 Python-based particle flow video generator.
 Uses image as particles.
-Example videos in examples folder as well as heart.png
+Example videos in ***examples*** folder as well as ***heart.png***
 
-INSTALLING
+# INSTALLING
 
+```
 pip install -r requirements.txt
+```
 
-USAGE
+# USAGE
 
-python generator.py
+```
+python [generator.py](http://generator.py)
+```
 
 then configure the settings and type 0 to render
